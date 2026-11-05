@@ -1,0 +1,10 @@
+.env
+data/
+*.session
+*.session-journal
+tokens.json
+__pycache__/
+*.pyc
+.git
+README.md
+docker-compose.yml
