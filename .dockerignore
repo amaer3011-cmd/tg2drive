@@ -1,8 +1,12 @@
 .env
+.env.*
+*.env
 data/
 *.session
 *.session-journal
 tokens.json
+credentials.json
+token.json
 __pycache__/
 *.pyc
 .git
